@@ -42,4 +42,4 @@ module.exports = {
         new html({filename: 'task2.html', template: './assets/pages/task2/main.html'}),
         new html({filename: 'task3.html', template: './assets/pages/task3/main.html'})
     ]
-}
+} 
