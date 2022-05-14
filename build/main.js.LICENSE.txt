@@ -36,19 +36,17 @@
 
 /*! ./assets/img/logo-mobile.png */
 
-/*! ./assets/pages/task1/src/images/1.jpg */
+/*! ./assets/pages/task1/src/images/image1.jpg */
 
-/*! ./assets/pages/task1/src/images/2.jpg */
+/*! ./assets/pages/task1/src/images/image2.jpg */
 
-/*! ./assets/pages/task1/src/images/3.jpg */
+/*! ./assets/pages/task1/src/images/image3.jpg */
 
-/*! ./assets/pages/task1/src/images/4.jpg */
+/*! ./assets/pages/task1/src/images/image4.jpg */
 
-/*! ./assets/pages/task1/src/images/5.jpg */
+/*! ./assets/pages/task1/src/images/image5.jpg */
 
-/*! ./assets/pages/task1/src/images/6.jpg */
-
-/*! ./assets/pages/task1/src/images/7.jpg */
+/*! ./assets/pages/task1/src/images/image6.jpg */
 
 /*! ./assets/pages/task1/src/style.css */
 
@@ -89,31 +87,27 @@
   \********************************************/
 
 /*!*********************************************!*\
-  !*** ./assets/pages/task1/src/images/1.jpg ***!
+  !*** ./assets/pages/task1/src/images/image1.jpg ***!
   \*********************************************/
 
 /*!*********************************************!*\
-  !*** ./assets/pages/task1/src/images/2.jpg ***!
+  !*** ./assets/pages/task1/src/images/image2.jpg ***!
   \*********************************************/
 
 /*!*********************************************!*\
-  !*** ./assets/pages/task1/src/images/3.jpg ***!
+  !*** ./assets/pages/task1/src/images/image3.jpg ***!
   \*********************************************/
 
 /*!*********************************************!*\
-  !*** ./assets/pages/task1/src/images/4.jpg ***!
+  !*** ./assets/pages/task1/src/images/image4.jpg ***!
   \*********************************************/
 
 /*!*********************************************!*\
-  !*** ./assets/pages/task1/src/images/5.jpg ***!
+  !*** ./assets/pages/task1/src/images/image5.jpg ***!
   \*********************************************/
 
 /*!*********************************************!*\
-  !*** ./assets/pages/task1/src/images/6.jpg ***!
-  \*********************************************/
-
-/*!*********************************************!*\
-  !*** ./assets/pages/task1/src/images/7.jpg ***!
+  !*** ./assets/pages/task1/src/images/image6.jpg ***!
   \*********************************************/
 
 /*!*****************************************************!*\
